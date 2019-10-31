@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "245baa7f2c8fc965f9d2375a76e8a163",
+    "revision": "c14cec07542d10e361d36eb2ccb8c420",
     "url": "/educational_project_SN/index.html"
   },
   {
@@ -8,20 +8,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational_project_SN/static/css/3.2b283795.chunk.css"
   },
   {
-    "revision": "063a981bc5f290dff3b3",
+    "revision": "6b9ec4d7f3c70620d924",
     "url": "/educational_project_SN/static/css/main.5943b04f.chunk.css"
   },
   {
-    "revision": "e5d2e28933664ee72a73",
-    "url": "/educational_project_SN/static/js/2.c0435d6d.chunk.js"
+    "revision": "4eb27e74dc312ed3a362",
+    "url": "/educational_project_SN/static/js/2.f0723336.chunk.js"
   },
   {
     "revision": "483363cd0adbc1790e57",
     "url": "/educational_project_SN/static/js/3.f8dcbe64.chunk.js"
   },
   {
-    "revision": "063a981bc5f290dff3b3",
-    "url": "/educational_project_SN/static/js/main.feca2296.chunk.js"
+    "revision": "6b9ec4d7f3c70620d924",
+    "url": "/educational_project_SN/static/js/main.c1a8a33f.chunk.js"
   },
   {
     "revision": "34984b922eea927985bb",
