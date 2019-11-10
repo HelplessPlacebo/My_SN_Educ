@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c14cec07542d10e361d36eb2ccb8c420",
+    "revision": "9224d8d17cf775a9b619bba5b704d88e",
     "url": "/educational_project_SN/index.html"
   },
   {
-    "revision": "483363cd0adbc1790e57",
+    "revision": "95f6147bc97eb71ed89a",
     "url": "/educational_project_SN/static/css/3.2b283795.chunk.css"
   },
   {
-    "revision": "6b9ec4d7f3c70620d924",
-    "url": "/educational_project_SN/static/css/main.5943b04f.chunk.css"
+    "revision": "6ddf1e05b08e9d6075b5",
+    "url": "/educational_project_SN/static/css/main.18894702.chunk.css"
   },
   {
-    "revision": "4eb27e74dc312ed3a362",
-    "url": "/educational_project_SN/static/js/2.f0723336.chunk.js"
+    "revision": "1adbfbe514120945ce71",
+    "url": "/educational_project_SN/static/js/2.082f530b.chunk.js"
   },
   {
-    "revision": "483363cd0adbc1790e57",
-    "url": "/educational_project_SN/static/js/3.f8dcbe64.chunk.js"
+    "revision": "95f6147bc97eb71ed89a",
+    "url": "/educational_project_SN/static/js/3.93a05a9e.chunk.js"
   },
   {
-    "revision": "6b9ec4d7f3c70620d924",
-    "url": "/educational_project_SN/static/js/main.c1a8a33f.chunk.js"
+    "revision": "6ddf1e05b08e9d6075b5",
+    "url": "/educational_project_SN/static/js/main.834bdadd.chunk.js"
   },
   {
-    "revision": "34984b922eea927985bb",
-    "url": "/educational_project_SN/static/js/runtime~main.8f5740da.js"
+    "revision": "5f242ac8dacb0c8177d7",
+    "url": "/educational_project_SN/static/js/runtime~main.4fb0c711.js"
   },
   {
     "revision": "a9c483a61f6b95703b93757ee7d74481",
