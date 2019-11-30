@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "284d5bd2fd3b8d4cffcdbc93c0385e60",
+    "revision": "9224d8d17cf775a9b619bba5b704d88e",
     "url": "/educational_project_SN/index.html"
   },
   {
-    "revision": "95b46874dd8311356251",
+    "revision": "95f6147bc97eb71ed89a",
     "url": "/educational_project_SN/static/css/3.2b283795.chunk.css"
   },
   {
-    "revision": "225b4bbf2f8f3e040441",
-    "url": "/educational_project_SN/static/css/main.32f64146.chunk.css"
+    "revision": "6ddf1e05b08e9d6075b5",
+    "url": "/educational_project_SN/static/css/main.18894702.chunk.css"
   },
   {
-    "revision": "c71ba038801a3e485bcc",
-    "url": "/educational_project_SN/static/js/2.95c5bc9f.chunk.js"
+    "revision": "1adbfbe514120945ce71",
+    "url": "/educational_project_SN/static/js/2.082f530b.chunk.js"
   },
   {
-    "revision": "95b46874dd8311356251",
-    "url": "/educational_project_SN/static/js/3.14f37386.chunk.js"
+    "revision": "95f6147bc97eb71ed89a",
+    "url": "/educational_project_SN/static/js/3.93a05a9e.chunk.js"
   },
   {
-    "revision": "225b4bbf2f8f3e040441",
-    "url": "/educational_project_SN/static/js/main.2e767a02.chunk.js"
+    "revision": "6ddf1e05b08e9d6075b5",
+    "url": "/educational_project_SN/static/js/main.834bdadd.chunk.js"
   },
   {
-    "revision": "ba292d4b29068e7dcd9d",
-    "url": "/educational_project_SN/static/js/runtime~main.faab0bf3.js"
+    "revision": "5f242ac8dacb0c8177d7",
+    "url": "/educational_project_SN/static/js/runtime~main.4fb0c711.js"
   },
   {
     "revision": "a9c483a61f6b95703b93757ee7d74481",
@@ -42,9 +42,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f86bd3d288c0edd860080eadb8cdfe69",
     "url": "/educational_project_SN/static/media/userPhoto.f86bd3d2.jpg"
-  },
-  {
-    "revision": "1334aba62f1e6481ff6cda2c70673b52",
-    "url": "/educational_project_SN/static/media/viewed1.1334aba6.jpg"
   }
 ]);
