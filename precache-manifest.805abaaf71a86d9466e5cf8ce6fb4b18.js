@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef1c651aea866043606ef68104713f8a",
+    "revision": "f9f6a18349173cfe05a86b083b1f2ddc",
     "url": "/My_SN_Educ/index.html"
   },
   {
-    "revision": "95b46874dd8311356251",
-    "url": "/My_SN_Educ/static/css/3.2b283795.chunk.css"
+    "revision": "b41c30adade6fa7935e0",
+    "url": "/My_SN_Educ/static/css/main.2d8dfea2.chunk.css"
   },
   {
-    "revision": "b577f53a4acd80cee5f6",
-    "url": "/My_SN_Educ/static/css/main.eb122631.chunk.css"
+    "revision": "bf9de4b982df4456166a",
+    "url": "/My_SN_Educ/static/js/2.98668617.chunk.js"
   },
   {
-    "revision": "c71ba038801a3e485bcc",
-    "url": "/My_SN_Educ/static/js/2.95c5bc9f.chunk.js"
+    "revision": "b41c30adade6fa7935e0",
+    "url": "/My_SN_Educ/static/js/main.cbb19e1a.chunk.js"
   },
   {
-    "revision": "95b46874dd8311356251",
-    "url": "/My_SN_Educ/static/js/3.14f37386.chunk.js"
-  },
-  {
-    "revision": "b577f53a4acd80cee5f6",
-    "url": "/My_SN_Educ/static/js/main.5fbf59ec.chunk.js"
-  },
-  {
-    "revision": "51197052d9486c49aab2",
-    "url": "/My_SN_Educ/static/js/runtime~main.f0dda014.js"
+    "revision": "ced10208e71495e0965e",
+    "url": "/My_SN_Educ/static/js/runtime~main.a7dd50fb.js"
   },
   {
     "revision": "a9c483a61f6b95703b93757ee7d74481",
     "url": "/My_SN_Educ/static/media/bg10.a9c483a6.jpg"
   },
   {
+    "revision": "8c53b8309115e745ebc75cfc0bb9afe8",
+    "url": "/My_SN_Educ/static/media/closeButton.8c53b830.png"
+  },
+  {
     "revision": "54c96e01d803babd068e18a742115a6e",
     "url": "/My_SN_Educ/static/media/loader1.54c96e01.gif"
+  },
+  {
+    "revision": "99ef094b5b4dc642e888d3dbc4fb34b0",
+    "url": "/My_SN_Educ/static/media/trash.99ef094b.png"
   },
   {
     "revision": "ae20f8de0d31797d3656fa699155a819",
