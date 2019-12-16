@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f9f6a18349173cfe05a86b083b1f2ddc",
+    "revision": "6d42f17c8bb80f253203750441696a87",
     "url": "/My_SN_Educ/index.html"
   },
   {
-    "revision": "b41c30adade6fa7935e0",
-    "url": "/My_SN_Educ/static/css/main.2d8dfea2.chunk.css"
+    "revision": "451156dccae30306ff73",
+    "url": "/My_SN_Educ/static/css/main.29a11561.chunk.css"
   },
   {
-    "revision": "bf9de4b982df4456166a",
-    "url": "/My_SN_Educ/static/js/2.98668617.chunk.js"
+    "revision": "20f12c52b6382c059102",
+    "url": "/My_SN_Educ/static/js/2.66bed9b7.chunk.js"
   },
   {
-    "revision": "b41c30adade6fa7935e0",
-    "url": "/My_SN_Educ/static/js/main.cbb19e1a.chunk.js"
+    "revision": "451156dccae30306ff73",
+    "url": "/My_SN_Educ/static/js/main.ee1a5ea5.chunk.js"
   },
   {
     "revision": "ced10208e71495e0965e",
